@@ -1,0 +1,15 @@
+users:
+      [
+        {
+          username: 'Tomek',
+          age: 21
+        },
+        {
+          username: 'Franek',
+          age: 35
+        },
+        {
+          username: 'Kotek',
+          age: 2130
+        }
+      ]
